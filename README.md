@@ -28,6 +28,9 @@ This project uses the following dependencies:
    mvn test -Dtest=<test_case>
    ```  
    E.g. `mvn test -Dtest=TC001_LoginPageExist`
+   
    E.g. `mvn test -Dtest=TC002_CareersLocators_Open`
+   
    E.g. `mvn test -Dtest=TC003_FilterJobs_Search`
+   
    E.g. `mvn test -Dtest=TC004_Jobs_Check`
