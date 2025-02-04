@@ -16,12 +16,10 @@ This project uses the following dependencies:
 - TestNG version 7.7.0
 
 ### 🛠️ Installation
-1. Install the dependencies and run the smoke test plan (configured).   
+1. Install the dependencies and run tests.   
    ```sh
    mvn clean install
    ```
-
-#### 🏃🏽How to run the tests
 
 #### 🚦 Running a test case
 1. Navigate to the project directory using command line.
